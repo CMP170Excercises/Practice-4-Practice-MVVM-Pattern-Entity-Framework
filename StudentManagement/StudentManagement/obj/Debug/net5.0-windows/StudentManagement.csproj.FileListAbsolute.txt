@@ -1,0 +1,126 @@
+C:\Users\Cong tien\Documents\Exercise\Practice3\StudentManagement\StudentManagement\bin\Debug\net5.0-windows\StudentManagement.exe
+C:\Users\Cong tien\Documents\Exercise\Practice3\StudentManagement\StudentManagement\bin\Debug\net5.0-windows\StudentManagement.deps.json
+C:\Users\Cong tien\Documents\Exercise\Practice3\StudentManagement\StudentManagement\bin\Debug\net5.0-windows\StudentManagement.runtimeconfig.json
+C:\Users\Cong tien\Documents\Exercise\Practice3\StudentManagement\StudentManagement\bin\Debug\net5.0-windows\StudentManagement.runtimeconfig.dev.json
+C:\Users\Cong tien\Documents\Exercise\Practice3\StudentManagement\StudentManagement\bin\Debug\net5.0-windows\StudentManagement.dll
+C:\Users\Cong tien\Documents\Exercise\Practice3\StudentManagement\StudentManagement\bin\Debug\net5.0-windows\ref\StudentManagement.dll
+C:\Users\Cong tien\Documents\Exercise\Practice3\StudentManagement\StudentManagement\bin\Debug\net5.0-windows\StudentManagement.pdb
+C:\Users\Cong tien\Documents\Exercise\Practice3\StudentManagement\StudentManagement\bin\Debug\net5.0-windows\MaterialDesignColors.dll
+C:\Users\Cong tien\Documents\Exercise\Practice3\StudentManagement\StudentManagement\bin\Debug\net5.0-windows\MaterialDesignThemes.Wpf.dll
+C:\Users\Cong tien\Documents\Exercise\Practice3\StudentManagement\StudentManagement\obj\Debug\net5.0-windows\StudentManagement.csproj.AssemblyReference.cache
+C:\Users\Cong tien\Documents\Exercise\Practice3\StudentManagement\StudentManagement\obj\Debug\net5.0-windows\MainWindow.g.cs
+C:\Users\Cong tien\Documents\Exercise\Practice3\StudentManagement\StudentManagement\obj\Debug\net5.0-windows\App.g.cs
+C:\Users\Cong tien\Documents\Exercise\Practice3\StudentManagement\StudentManagement\obj\Debug\net5.0-windows\StudentManagement_MarkupCompile.cache
+C:\Users\Cong tien\Documents\Exercise\Practice3\StudentManagement\StudentManagement\obj\Debug\net5.0-windows\StudentManagement_MarkupCompile.lref
+C:\Users\Cong tien\Documents\Exercise\Practice3\StudentManagement\StudentManagement\obj\Debug\net5.0-windows\App.baml
+C:\Users\Cong tien\Documents\Exercise\Practice3\StudentManagement\StudentManagement\obj\Debug\net5.0-windows\MainWindow.baml
+C:\Users\Cong tien\Documents\Exercise\Practice3\StudentManagement\StudentManagement\obj\Debug\net5.0-windows\StudentManagement.g.resources
+C:\Users\Cong tien\Documents\Exercise\Practice3\StudentManagement\StudentManagement\obj\Debug\net5.0-windows\StudentManagement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cong tien\Documents\Exercise\Practice3\StudentManagement\StudentManagement\obj\Debug\net5.0-windows\StudentManagement.AssemblyInfoInputs.cache
+C:\Users\Cong tien\Documents\Exercise\Practice3\StudentManagement\StudentManagement\obj\Debug\net5.0-windows\StudentManagement.AssemblyInfo.cs
+C:\Users\Cong tien\Documents\Exercise\Practice3\StudentManagement\StudentManagement\obj\Debug\net5.0-windows\StudentManagement.csproj.CoreCompileInputs.cache
+C:\Users\Cong tien\Documents\Exercise\Practice3\StudentManagement\StudentManagement\obj\Debug\net5.0-windows\StudentManagement.csproj.CopyComplete
+C:\Users\Cong tien\Documents\Exercise\Practice3\StudentManagement\StudentManagement\obj\Debug\net5.0-windows\StudentManagement.dll
+C:\Users\Cong tien\Documents\Exercise\Practice3\StudentManagement\StudentManagement\obj\Debug\net5.0-windows\ref\StudentManagement.dll
+C:\Users\Cong tien\Documents\Exercise\Practice3\StudentManagement\StudentManagement\obj\Debug\net5.0-windows\StudentManagement.pdb
+C:\Users\Cong tien\Documents\Exercise\Practice3\StudentManagement\StudentManagement\obj\Debug\net5.0-windows\StudentManagement.genruntimeconfig.cache
+C:\Users\Cong tien\Documents\Exercise\Practice3\StudentManagement\StudentManagement\obj\Debug\net5.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\Cong tien\Documents\Exercise\Practice3\StudentManagement\StudentManagement\bin\Debug\net5.0-windows\Student_Data.json
+C:\Users\Cong tien\Documents\Exercise\Practice3\StudentManagement\StudentManagement\obj\Debug\net5.0-windows\StudentDetailWindow.g.cs
+C:\Users\Cong tien\Documents\Exercise\Practice3\StudentManagement\StudentManagement\obj\Debug\net5.0-windows\StudentDetailWindow.baml
+C:\Users\Cong tien\Documents\Exercise\Practice4\StudentManagement\StudentManagement\bin\Debug\net5.0-windows\StudentManagement.exe
+C:\Users\Cong tien\Documents\Exercise\Practice4\StudentManagement\StudentManagement\bin\Debug\net5.0-windows\Student_Data.json
+C:\Users\Cong tien\Documents\Exercise\Practice4\StudentManagement\StudentManagement\bin\Debug\net5.0-windows\StudentManagement.deps.json
+C:\Users\Cong tien\Documents\Exercise\Practice4\StudentManagement\StudentManagement\bin\Debug\net5.0-windows\StudentManagement.runtimeconfig.json
+C:\Users\Cong tien\Documents\Exercise\Practice4\StudentManagement\StudentManagement\bin\Debug\net5.0-windows\StudentManagement.runtimeconfig.dev.json
+C:\Users\Cong tien\Documents\Exercise\Practice4\StudentManagement\StudentManagement\bin\Debug\net5.0-windows\StudentManagement.dll
+C:\Users\Cong tien\Documents\Exercise\Practice4\StudentManagement\StudentManagement\bin\Debug\net5.0-windows\ref\StudentManagement.dll
+C:\Users\Cong tien\Documents\Exercise\Practice4\StudentManagement\StudentManagement\bin\Debug\net5.0-windows\StudentManagement.pdb
+C:\Users\Cong tien\Documents\Exercise\Practice4\StudentManagement\StudentManagement\bin\Debug\net5.0-windows\MaterialDesignColors.dll
+C:\Users\Cong tien\Documents\Exercise\Practice4\StudentManagement\StudentManagement\bin\Debug\net5.0-windows\MaterialDesignThemes.Wpf.dll
+C:\Users\Cong tien\Documents\Exercise\Practice4\StudentManagement\StudentManagement\obj\Debug\net5.0-windows\StudentManagement.csproj.AssemblyReference.cache
+C:\Users\Cong tien\Documents\Exercise\Practice4\StudentManagement\StudentManagement\obj\Debug\net5.0-windows\MainWindow.g.cs
+C:\Users\Cong tien\Documents\Exercise\Practice4\StudentManagement\StudentManagement\obj\Debug\net5.0-windows\StudentDetailWindow.g.cs
+C:\Users\Cong tien\Documents\Exercise\Practice4\StudentManagement\StudentManagement\obj\Debug\net5.0-windows\App.g.cs
+C:\Users\Cong tien\Documents\Exercise\Practice4\StudentManagement\StudentManagement\obj\Debug\net5.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\Cong tien\Documents\Exercise\Practice4\StudentManagement\StudentManagement\obj\Debug\net5.0-windows\StudentManagement_MarkupCompile.cache
+C:\Users\Cong tien\Documents\Exercise\Practice4\StudentManagement\StudentManagement\obj\Debug\net5.0-windows\StudentManagement_MarkupCompile.lref
+C:\Users\Cong tien\Documents\Exercise\Practice4\StudentManagement\StudentManagement\obj\Debug\net5.0-windows\App.baml
+C:\Users\Cong tien\Documents\Exercise\Practice4\StudentManagement\StudentManagement\obj\Debug\net5.0-windows\MainWindow.baml
+C:\Users\Cong tien\Documents\Exercise\Practice4\StudentManagement\StudentManagement\obj\Debug\net5.0-windows\StudentDetailWindow.baml
+C:\Users\Cong tien\Documents\Exercise\Practice4\StudentManagement\StudentManagement\obj\Debug\net5.0-windows\StudentManagement.g.resources
+C:\Users\Cong tien\Documents\Exercise\Practice4\StudentManagement\StudentManagement\obj\Debug\net5.0-windows\StudentManagement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cong tien\Documents\Exercise\Practice4\StudentManagement\StudentManagement\obj\Debug\net5.0-windows\StudentManagement.AssemblyInfoInputs.cache
+C:\Users\Cong tien\Documents\Exercise\Practice4\StudentManagement\StudentManagement\obj\Debug\net5.0-windows\StudentManagement.AssemblyInfo.cs
+C:\Users\Cong tien\Documents\Exercise\Practice4\StudentManagement\StudentManagement\obj\Debug\net5.0-windows\StudentManagement.csproj.CoreCompileInputs.cache
+C:\Users\Cong tien\Documents\Exercise\Practice4\StudentManagement\StudentManagement\obj\Debug\net5.0-windows\StudentManagement.csproj.CopyComplete
+C:\Users\Cong tien\Documents\Exercise\Practice4\StudentManagement\StudentManagement\obj\Debug\net5.0-windows\StudentManagement.dll
+C:\Users\Cong tien\Documents\Exercise\Practice4\StudentManagement\StudentManagement\obj\Debug\net5.0-windows\ref\StudentManagement.dll
+C:\Users\Cong tien\Documents\Exercise\Practice4\StudentManagement\StudentManagement\obj\Debug\net5.0-windows\StudentManagement.pdb
+C:\Users\Cong tien\Documents\Exercise\Practice4\StudentManagement\StudentManagement\obj\Debug\net5.0-windows\StudentManagement.genruntimeconfig.cache
+C:\Users\MyPC\Desktop\Practice4\StudentManagement\StudentManagement\bin\Debug\net5.0-windows\StudentManagement.exe
+C:\Users\MyPC\Desktop\Practice4\StudentManagement\StudentManagement\bin\Debug\net5.0-windows\Student_Data.json
+C:\Users\MyPC\Desktop\Practice4\StudentManagement\StudentManagement\bin\Debug\net5.0-windows\StudentManagement.deps.json
+C:\Users\MyPC\Desktop\Practice4\StudentManagement\StudentManagement\bin\Debug\net5.0-windows\StudentManagement.runtimeconfig.json
+C:\Users\MyPC\Desktop\Practice4\StudentManagement\StudentManagement\bin\Debug\net5.0-windows\StudentManagement.runtimeconfig.dev.json
+C:\Users\MyPC\Desktop\Practice4\StudentManagement\StudentManagement\bin\Debug\net5.0-windows\StudentManagement.dll
+C:\Users\MyPC\Desktop\Practice4\StudentManagement\StudentManagement\bin\Debug\net5.0-windows\ref\StudentManagement.dll
+C:\Users\MyPC\Desktop\Practice4\StudentManagement\StudentManagement\bin\Debug\net5.0-windows\StudentManagement.pdb
+C:\Users\MyPC\Desktop\Practice4\StudentManagement\StudentManagement\bin\Debug\net5.0-windows\MaterialDesignColors.dll
+C:\Users\MyPC\Desktop\Practice4\StudentManagement\StudentManagement\bin\Debug\net5.0-windows\MaterialDesignThemes.Wpf.dll
+C:\Users\MyPC\Desktop\Practice4\StudentManagement\StudentManagement\obj\Debug\net5.0-windows\StudentManagement.csproj.AssemblyReference.cache
+C:\Users\MyPC\Desktop\Practice4\StudentManagement\StudentManagement\obj\Debug\net5.0-windows\MainWindow.g.cs
+C:\Users\MyPC\Desktop\Practice4\StudentManagement\StudentManagement\obj\Debug\net5.0-windows\StudentDetailWindow.g.cs
+C:\Users\MyPC\Desktop\Practice4\StudentManagement\StudentManagement\obj\Debug\net5.0-windows\App.g.cs
+C:\Users\MyPC\Desktop\Practice4\StudentManagement\StudentManagement\obj\Debug\net5.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\MyPC\Desktop\Practice4\StudentManagement\StudentManagement\obj\Debug\net5.0-windows\StudentManagement_MarkupCompile.cache
+C:\Users\MyPC\Desktop\Practice4\StudentManagement\StudentManagement\obj\Debug\net5.0-windows\StudentManagement_MarkupCompile.lref
+C:\Users\MyPC\Desktop\Practice4\StudentManagement\StudentManagement\obj\Debug\net5.0-windows\App.baml
+C:\Users\MyPC\Desktop\Practice4\StudentManagement\StudentManagement\obj\Debug\net5.0-windows\MainWindow.baml
+C:\Users\MyPC\Desktop\Practice4\StudentManagement\StudentManagement\obj\Debug\net5.0-windows\StudentDetailWindow.baml
+C:\Users\MyPC\Desktop\Practice4\StudentManagement\StudentManagement\obj\Debug\net5.0-windows\StudentManagement.g.resources
+C:\Users\MyPC\Desktop\Practice4\StudentManagement\StudentManagement\obj\Debug\net5.0-windows\StudentManagement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MyPC\Desktop\Practice4\StudentManagement\StudentManagement\obj\Debug\net5.0-windows\StudentManagement.AssemblyInfoInputs.cache
+C:\Users\MyPC\Desktop\Practice4\StudentManagement\StudentManagement\obj\Debug\net5.0-windows\StudentManagement.AssemblyInfo.cs
+C:\Users\MyPC\Desktop\Practice4\StudentManagement\StudentManagement\obj\Debug\net5.0-windows\StudentManagement.csproj.CoreCompileInputs.cache
+C:\Users\MyPC\Desktop\Practice4\StudentManagement\StudentManagement\obj\Debug\net5.0-windows\StudentManagement.dll
+C:\Users\MyPC\Desktop\Practice4\StudentManagement\StudentManagement\obj\Debug\net5.0-windows\ref\StudentManagement.dll
+C:\Users\MyPC\Desktop\Practice4\StudentManagement\StudentManagement\obj\Debug\net5.0-windows\StudentManagement.pdb
+C:\Users\MyPC\Desktop\Practice4\StudentManagement\StudentManagement\obj\Debug\net5.0-windows\StudentManagement.genruntimeconfig.cache
+C:\Users\MyPC\Desktop\Practice4\StudentManagement\StudentManagement\bin\Debug\net5.0-windows\Humanizer.dll
+C:\Users\MyPC\Desktop\Practice4\StudentManagement\StudentManagement\bin\Debug\net5.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\MyPC\Desktop\Practice4\StudentManagement\StudentManagement\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\MyPC\Desktop\Practice4\StudentManagement\StudentManagement\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\MyPC\Desktop\Practice4\StudentManagement\StudentManagement\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\MyPC\Desktop\Practice4\StudentManagement\StudentManagement\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\MyPC\Desktop\Practice4\StudentManagement\StudentManagement\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\MyPC\Desktop\Practice4\StudentManagement\StudentManagement\bin\Debug\net5.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\MyPC\Desktop\Practice4\StudentManagement\StudentManagement\bin\Debug\net5.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\MyPC\Desktop\Practice4\StudentManagement\StudentManagement\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\MyPC\Desktop\Practice4\StudentManagement\StudentManagement\bin\Debug\net5.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\MyPC\Desktop\Practice4\StudentManagement\StudentManagement\bin\Debug\net5.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\MyPC\Desktop\Practice4\StudentManagement\StudentManagement\bin\Debug\net5.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\MyPC\Desktop\Practice4\StudentManagement\StudentManagement\bin\Debug\net5.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\MyPC\Desktop\Practice4\StudentManagement\StudentManagement\bin\Debug\net5.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\MyPC\Desktop\Practice4\StudentManagement\StudentManagement\bin\Debug\net5.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\MyPC\Desktop\Practice4\StudentManagement\StudentManagement\bin\Debug\net5.0-windows\Microsoft.Identity.Client.dll
+C:\Users\MyPC\Desktop\Practice4\StudentManagement\StudentManagement\bin\Debug\net5.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\MyPC\Desktop\Practice4\StudentManagement\StudentManagement\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\MyPC\Desktop\Practice4\StudentManagement\StudentManagement\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\MyPC\Desktop\Practice4\StudentManagement\StudentManagement\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\MyPC\Desktop\Practice4\StudentManagement\StudentManagement\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\MyPC\Desktop\Practice4\StudentManagement\StudentManagement\bin\Debug\net5.0-windows\Newtonsoft.Json.dll
+C:\Users\MyPC\Desktop\Practice4\StudentManagement\StudentManagement\bin\Debug\net5.0-windows\System.Diagnostics.DiagnosticSource.dll
+C:\Users\MyPC\Desktop\Practice4\StudentManagement\StudentManagement\bin\Debug\net5.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\MyPC\Desktop\Practice4\StudentManagement\StudentManagement\bin\Debug\net5.0-windows\System.Runtime.Caching.dll
+C:\Users\MyPC\Desktop\Practice4\StudentManagement\StudentManagement\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\MyPC\Desktop\Practice4\StudentManagement\StudentManagement\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\MyPC\Desktop\Practice4\StudentManagement\StudentManagement\bin\Debug\net5.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\MyPC\Desktop\Practice4\StudentManagement\StudentManagement\bin\Debug\net5.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\MyPC\Desktop\Practice4\StudentManagement\StudentManagement\bin\Debug\net5.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\MyPC\Desktop\Practice4\StudentManagement\StudentManagement\bin\Debug\net5.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\MyPC\Desktop\Practice4\StudentManagement\StudentManagement\bin\Debug\net5.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\MyPC\Desktop\Practice4\StudentManagement\StudentManagement\bin\Debug\net5.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\MyPC\Desktop\Practice4\StudentManagement\StudentManagement\bin\Debug\net5.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\MyPC\Desktop\Practice4\StudentManagement\StudentManagement\bin\Debug\net5.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\MyPC\Desktop\Practice4\StudentManagement\StudentManagement\bin\Debug\net5.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
